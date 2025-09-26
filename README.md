@@ -107,6 +107,12 @@ p1 + theme_par()
 ![](man/figures/README-theme_par-1.png)<!-- -->
 
 ``` r
+p1 + theme_pub()
+```
+
+![](man/figures/README-theme_pub-1.png)<!-- -->
+
+``` r
 p1 + theme_fivethirtyeight()
 ```
 
