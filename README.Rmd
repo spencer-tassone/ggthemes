@@ -99,6 +99,10 @@ p1 + theme_igray()
 p1 + theme_par()
 ```
 
+```{r,theme_pub}
+p1 + theme_pub()
+```
+
 ```{r,theme_fivethirtyeight}
 p1 + theme_fivethirtyeight()
 ```
